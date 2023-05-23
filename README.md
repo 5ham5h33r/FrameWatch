@@ -1,0 +1,2 @@
+# FrameWatch
+ FrameWatch is a Python application for capturing and recording frames from a camera feed. It allows you to monitor the camera feed in real-time, add timestamps to the frames, and save the recorded videos to disk. FrameWatch provides options for controlling frame skipping and duration, enabling efficient video recording while optimizing disk space usage. It is built using OpenCV and offers a simple interface for camera-based surveillance and monitoring applications
